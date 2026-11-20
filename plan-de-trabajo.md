@@ -4,9 +4,8 @@
 
 | Integrante | Rol | Qué hace / Archivos a cargo |
 |---|---|---|
-| Laura Caicedo | Coordinación, repositorio y sitio web | Administración del repositorio, publicación en GitHub Pages, `README.md` y carpeta `plan/` |
-| Julian Cruz | Máquinas virtuales, red y seguridad | Instalación y configuración de `g04b-grafica` (Debian) y `g04b-consola` (AlmaLinux), red NAT + solo-anfitrión, usuarios, firewall y SSH |
-| [Nombre Integrante 3 si aplica] | Scripts, procesos, Docker y Kubernetes | Scripts Bash, gestión de procesos, `Dockerfile` (Rocky Linux), Docker Hub y despliegue en Minikube |
+| Laura Caicedo | Coordinación, repositorio, seguridad y sitio web | Administración del repositorio, publicación en GitHub Pages (`README.md`, `_config.yml`, carpeta `plan/`), gestión de usuarios/permisos, firewall, llaves SSH, cuadro comparativo y edición/publicación de videos |
+| Julian Cruz | Máquinas virtuales, red, scripts, procesos, Docker y Kubernetes | Instalación y configuración de `g04b-grafica` (Debian) y `g04b-consola` (AlmaLinux), red NAT + solo-anfitrión, instantáneas, scripts Bash, procesos, Docker Engine, `Dockerfile` (Rocky Linux), Docker Hub y Minikube |
 
 ## Cronograma de sprints (Cierre 11:55 p. m. - Yumbo)
 
