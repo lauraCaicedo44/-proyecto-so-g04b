@@ -1,7 +1,9 @@
 # Sprint 1: Aprovisionamiento de Infraestructura y Red — Grupo g04b
 
 * **Integrantes:** Julian Andrés Cruz Garcia y Laura Caicedo
-* **Video de sustentación (3 minutos):** [Ver video del Sprint 1](ENLACE_DEL_VIDEO_AQUI)
+* **Video de sustentación (3 minutos):** [Ver video del Sprint 1](https://www.youtube.com/watch?v=tl9oUJqlMDw)
+
+[![Sistemas Operativos - Sprint 1 | Grupo g04b](https://img.youtube.com/vi/tl9oUJqlMDw/0.jpg)](https://www.youtube.com/watch?v=tl9oUJqlMDw)
 
 ---
 
